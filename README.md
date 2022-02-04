@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [IA, Robotics, Etherium](https://ethereum.org/en/)
 
-- 👨‍💻 All of my projects are available at [jcamilorg](jcamilorg)
+- 👨‍💻 All of my projects are available at <a href="https://jcamilorg.github.io/JuanCamiloRamirez-Dev/">Jcamilo.rg</a>
 
 - 📫 How to reach me **juancamilorg64@gmail.com**
 
