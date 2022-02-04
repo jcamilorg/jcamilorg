@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on [IA, Robotics, Etherium](https://ethereum.org/en/)
 
-- 👨‍💻 All of my projects are available at [mat-iot.125mb.com](mat-iot.125mb.com)
+- 👨‍💻 All of my projects are available at [jcamilorg](jcamilorg)
 
 - 📫 How to reach me **juancamilorg64@gmail.com**
 
-- 📄 Know about my experiences [mat-iot.125mb.com](mat-iot.125mb.com)
+- 📄 Know about my experiences <a href="http://mat-iot.125mb.com">mat-iot</a>
 
 - ⚡ Fun fact **Any sufficiently advanced technology is indistinguishable from magic. Arthur C. Clarke**
 
