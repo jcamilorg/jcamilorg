@@ -43,7 +43,7 @@ magic. Arthur C. Clarke**
 
 <div>
   <div>
-    <b>Desarrollo Web FrontEnd</b>
+    <b>Desarrollo Web FrontEnd: </b>
     <a href="https://www.w3.org/html/" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -90,7 +90,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <b>Desarrollo web BackEnd</b>
+    <b>Desarrollo web BackEnd: </b>
     <a href="https://nodejs.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -126,7 +126,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <b>Desarrollo movil</b>
+    <b>Desarrollo movil: </b>
     <a href="https://reactnative.dev/" target="_blank">
       <img
         src="https://reactnative.dev/img/header_logo.svg"
@@ -146,7 +146,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <b>Programación de dispositivos electrónicos</b>
+    <b>Programación de dispositivos electrónicos: </b>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -166,7 +166,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <b>Inteligencia artificial y machine learning</b>
+    <b>Inteligencia artificial y machine learning: </b>
     <a href="https://www.python.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -194,7 +194,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <b>Herramientas de diseño y edición</b>
+    <b>Herramientas de diseño y edición: </b>
     <a href="https://www.photoshop.com/en" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
