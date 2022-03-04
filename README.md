@@ -5,7 +5,7 @@
   our lives to unimaginable places.
 </h3>
 
-- 🔭 I’m currently studying on **Pontificia universidad Javeriana** - 🌱 I’m
+- 🔭 I’m from **Pontificia universidad Javeriana** - 🌱 I’m
 currently learning **deep neural networks, computer vision, transformers** - 👯
 I’m looking to collaborate on [IA, Robotics, Etherium](https://ethereum.org/en/)
 - 👨‍💻 All of my projects are available at
