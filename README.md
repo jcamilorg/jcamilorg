@@ -41,16 +41,9 @@ magic. Arthur C. Clarke**
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div
-  style="
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
-  "
->
+<div>
   <div>
-    <h5>Desarrollo Web FrontEnd</h5>
+    <b>Desarrollo Web FrontEnd</b>
     <a href="https://www.w3.org/html/" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -97,7 +90,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <h5>Desarrollo web BackEnd</h5>
+    <b>Desarrollo web BackEnd</b>
     <a href="https://nodejs.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -133,7 +126,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <h5>Desarrollo movil</h5>
+    <b>Desarrollo movil</b>
     <a href="https://reactnative.dev/" target="_blank">
       <img
         src="https://reactnative.dev/img/header_logo.svg"
@@ -153,7 +146,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <h5>Programación de dispositivos electrónicos</h5>
+    <b>Programación de dispositivos electrónicos</b>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -173,7 +166,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <h5>Inteligencia artificial y machine learning</h5>
+    <b>Inteligencia artificial y machine learning</b>
     <a href="https://www.python.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -201,7 +194,7 @@ magic. Arthur C. Clarke**
   </div>
 
   <div>
-    <h5>Herramientas de diseño y edición</h5>
+    <b>Herramientas de diseño y edición</b>
     <a href="https://www.photoshop.com/en" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
