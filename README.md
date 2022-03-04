@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Camilo Ramirez, AkA Ramgo</h1>
+<h1 align="center">Hi 👋, I'm Juan Camilo Ramirez, aka Ramgo</h1>
 <h3 align="center">
   I am an engineer and lover of technology, I am passionate about artificial
   intelligence and robotics. I have always believed that technology can empower
