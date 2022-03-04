@@ -42,7 +42,7 @@ magic. Arthur C. Clarke**
 <h3 align="left">Languages and Tools:</h3>
 
 <div>
-  <div>
+  <div align="center">
     <b>Desarrollo Web FrontEnd:                   -</b>
     <a href="https://www.w3.org/html/" target="_blank">
       <img
