@@ -135,14 +135,15 @@ magic. Arthur C. Clarke**
         height="40"
       />
     </a>
-    <a href="https://developer.apple.com/swift/" target="_blank">
+    <!-- <a href="https://developer.apple.com/swift/" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
         alt="swift"
         width="40"
         height="40"
       />
-    </a>
+    </a> -->
+    
   </div>
 
   <div>
